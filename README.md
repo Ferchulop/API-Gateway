@@ -10,7 +10,7 @@ Esta API Gateway permite gestionar un servicio de juegos con operaciones CRUD (C
 ## Tecnologías utilizadas:
 - Spring Boot: Framework principal para el desarrollo de la API.
 - Spring Security: Gestión de la seguridad de la API con autenticación JWT.
-- Lombok: Para reducir líneas de código mediante anotaciones(getters, setters...)
+- Lombok: Para reducir líneas de código mediante anotaciones (getters, setters...).
 - PostgreSQL: Base de datos relacional utilizada para almacenar información de usuarios y juegos.
 - Hibernate y JPA: Para el manejo de la persistencia de datos en la base de datos.
 - SLF4J: Para el logging y manejo de mensajes de error.
