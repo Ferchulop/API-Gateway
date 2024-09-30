@@ -16,3 +16,5 @@ Esta API Gateway permite gestionar un servicio de juegos con operaciones CRUD (C
 - SLF4J: Para el logging y manejo de mensajes de error.
 - JWT (Json Web Token): Para la generación y verificación de tokens de autenticación.
 - Postman/Swagger: Documentación y verificación de la API.
+
+![API-Gateway](https://github.com/user-attachments/assets/9f19485d-0951-4281-b7de-e73013336c55)
