@@ -8,13 +8,13 @@ Esta API Gateway permite gestionar un servicio de juegos con operaciones CRUD (C
 - Logging: Uso de SLF4J para registrar los errores y el comportamiento de la API.
   
 ## Tecnologías utilizadas:
-- Spring Boot: Framework principal para el desarrollo de la API.
-- Spring Security: Gestión de la seguridad de la API con autenticación JWT.
-- Lombok: Para reducir líneas de código mediante anotaciones (getters, setters...).
-- PostgreSQL: Base de datos relacional utilizada para almacenar información de usuarios y juegos.
-- Hibernate y JPA: Para el manejo de la persistencia de datos en la base de datos.
-- SLF4J: Para el logging y manejo de mensajes de error.
-- JWT (Json Web Token): Para la generación y verificación de tokens de autenticación.
-- Postman/Swagger: Documentación y verificación de la API.
+- **Spring Boot:** Framework principal para el desarrollo de la API.
+- **Spring Security:** Gestión de la seguridad de la API con autenticación JWT.
+- **Lombok:** Para reducir líneas de código mediante anotaciones (getters, setters...).
+- **PostgreSQL:** Base de datos relacional utilizada para almacenar información de usuarios y juegos.
+- **Hibernate y JPA:** Para el manejo de la persistencia de datos en la base de datos.
+- **SLF4J:** Para el logging y manejo de mensajes de error.
+- **JWT (Json Web Token):** Para la generación y verificación de tokens de autenticación.
+- **Postman/Swagger:** Documentación y verificación de la API.
 
 ![API-Gateway](https://github.com/user-attachments/assets/9f19485d-0951-4281-b7de-e73013336c55)
